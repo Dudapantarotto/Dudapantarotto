@@ -48,10 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dudapantarotto/Dudapantarotto/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Midia</h2>
 
 ###
